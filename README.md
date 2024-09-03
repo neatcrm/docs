@@ -1,6 +1,6 @@
-# Website
+# NeatCRM Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository builds the website, blog, and documentation site. This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
